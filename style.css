@@ -1,0 +1,22 @@
+body{
+    background:purple;
+}
+
+#canvas{
+    position:absolute;
+    border:solid;
+    background:black;
+}
+
+#scoreDiv{
+    position:absolute;
+    top:90%;
+    font-size:larger;
+    color:chartreuse;
+}
+
+#instructions{
+    position:absolute;
+    color:red;
+    font-size:40px;
+}
